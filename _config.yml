@@ -1,7 +1,43 @@
-remote_theme: Jekyll-Uno
+# Site settings
+title: flatrabbit.io
+description: 'hey! a github pages test site'
+url: 'https://flatrabbit.github.io/'
+baseurl: ''
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'your-disqus-name'
 
-plugins:
-  - jekyll-github-metadata
-  - jekyll-paginate
-  - jemoji
-  - jekyll-sitemap
+author:
+  name: 'Jacob Carroll'
+  email: flatrabbit@gmail.com
+  twitter_username: flatrabbit
+  facebook_username: flatrabbit
+  github_username:  flatrabbit
+  linkedin_username:  jacob--carroll
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 5
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+plugins: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
