@@ -17,7 +17,7 @@ Get-ADUser $user -prop proxyaddresses,userPrincipalName | % {
 ```
 
 image test
-![iPhone 6 Screenshot](/_assets/topobags.jpg)
+![My helpful screenshot]({{ "/assets/topobags.jpg" | absolute_url }})
 
 Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
 
