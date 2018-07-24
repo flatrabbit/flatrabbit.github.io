@@ -10,9 +10,9 @@ author:
   name: 'Jacob Carroll'
   email: flatrabbit@gmail.com
   twitter_username: flatrabbit
-  facebook_username: flatrabbit
+#  facebook_username: flatrabbit
   github_username:  flatrabbit
-  linkedin_username:  jacob--carroll
+#  linkedin_username:  jacob--carroll
 
 defaults:
   -
