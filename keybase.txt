@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/flatrabbit
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://flatrabbit.io
+  * I am flatrabbit (https://keybase.io/flatrabbit) on keybase.
+  * I have a public key with fingerprint 328B FD0B C4F6 85AA F1B9  97DB 5CBE 5F64 D7A2 6252
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101b0331dfd76e7f04c0e6f0749141f568f310d15eaba65ccb148a60a8defbb14780a",
+      "fingerprint": "328bfd0bc4f685aaf1b997db5cbe5f64d7a26252",
+      "host": "keybase.io",
+      "key_id": "5cbe5f64d7a26252",
+      "kid": "0101b0331dfd76e7f04c0e6f0749141f568f310d15eaba65ccb148a60a8defbb14780a",
+      "uid": "9c7252773e6ec7e42bbf21fc04edc219",
+      "username": "flatrabbit"
+    },
+    "service": {
+      "hostname": "flatrabbit.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1532544240,
+  "expire_in": 157680000,
+  "prev": "b1c506f4a932cf64810e728cdbe784de0439a0c65367442e8a741366b5e39e94",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.77
+Comment: https://keybase.io/crypto
+
+yMIkAnicrZJdSFRBFMd3tbSWirAi+kSmkj6Wmrl37teqvfRBPqRUL0HaMjN3rt3U
+vdve66aZFFEqSJBJBQphoCXCYlpBQR+WQp9WUA8ZRURUJhFFQg8WNtfqqR6bl+Gc
++f9/c87hDExPD4SCLVX99R86VnwN3r/ZWhnYsX3gcw2gjlkNIjWgjE9cvNzkrhct
+s00QARBBRKEsI9MyNZVrFsQMctWCGjYQRpai6paMoIkUTihRFcYowjpRIdFNblER
+aDokIAwsO1bKE/GEHfMEVpZ0apmQMmypukKIhahhaCZVGOWKpWJTI5IqKZIw7nJc
+3yGKo8Tlq21H5EQQnSjvH/r/XHflBM5gmqBrmsxVzjSOJUotCVkMYm4yCRm+0OWJ
+GKngQm2VEy9BKLU9UBsGIp+0GfdH6/fyl+ZXS/GE4znMKRdPuzwv7kZ8q1cd97V7
+OY3+pkSpHTPFKIUjyROu7cRABAkl82wfixRZUjCWMAwDXhW3Ezxq+wpFU3Uojv8P
+TwokRUyBqoWJIUtMDFBHkGuSzkzKNR2bHGLZIJCpiqxqgsd1omEkqypVuGxwAwO/
+rz0xR7AlUScpFUzXLo0RrzLBQe2tvuJJgWAokDE5zd+xQGjqzD+b17Mzc3zjpqbZ
+99YNVd5umfGoYWVBUf7Sva/GTufdz+0rGE5e7O89fWT3qszi0ELQws6+vpBb9/7H
+oqODJb2jbX3TUtuSrLFzYU34MWgH0si7YfdTMpU/NSc678HVU2dKHs7fPzs4fmXt
+zeu7u+++uFFTVLegHh04yCpaWf655leLNgwlu781Lp+b83Hxm9GcY4Md4ezkQGZD
+Ou85n515/YsTiGQdXzKc1fXswvrvtRl9hzbvy+25sfH2naszgm+Xd65pu/SyvqEg
+//KC9MWPW4cH3+d2Fp4o6soLgYxn17aklt2Z0p5a09SYqooVNrd3Pz15eM6ptOo5
+Q09w9khj/PlQbz9cN2urO3fsJ1ifRG8=
+=IGPB
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/flatrabbit
+
+==================================================================
