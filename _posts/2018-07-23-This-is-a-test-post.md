@@ -3,7 +3,6 @@ title:  "Test Post"
 date:   2017-07-23 12:12:00
 categories: [test]
 tags: [test]
-youtubeId: sM9NgtUJk70
 ---
 Just playing with the posts option to see how this all works.
 
@@ -21,6 +20,5 @@ image test
 ![My helpful screenshot]({{ "/assets/topobags.jpg" | absolute_url }})
 
 youtube test
-sM9NgtUJk70
 
-{% include youtubePlayer.html id=page.youtubeId %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sM9NgtUJk70" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
