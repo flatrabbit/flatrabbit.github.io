@@ -3,6 +3,7 @@ title:  "Test Post"
 date:   2017-07-23 12:12:00
 categories: [test]
 tags: [test]
+youtubeId: sM9NgtUJk70
 ---
 Just playing with the posts option to see how this all works.
 
@@ -22,4 +23,4 @@ image test
 youtube test
 sM9NgtUJk70
 
-{% include youtubePlayer.html id=page.sM9NgtUJk70 %}
+{% include youtubePlayer.html id=page.youtubeId %}
