@@ -41,6 +41,4 @@ kramdown:
 
 plugins: ['jekyll-paginate','jekyll-include-cache']
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
-remote_theme: "mmistakes/minimal-mistakes@4.17.1"
-
 theme: jekyll-theme-minimal
